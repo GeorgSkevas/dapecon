@@ -2,9 +2,11 @@
 
 This website is made using python-django, html css and some javascript.
 
+It's a project for a political party.
+
 In order to run it you will have to clone my repository by typing on the bash: 
 
-"git clone https://github.com/MrSkevas/dapecon"
+"git clone https://github.com/GeorgSkevas/dapecon"
 
 cd into the directory with the "manage.py" file.
 
